@@ -143,3 +143,13 @@ form {
     font-weight: 900;
     color: red;
 }
+
+.img-logo {
+    display: flex;
+    width: 10%;
+    height: fit-content;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    
+}
